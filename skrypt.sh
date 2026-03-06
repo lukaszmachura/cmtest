@@ -1,0 +1,1 @@
+echo Ala ma kota
